@@ -1,0 +1,41 @@
+//
+body,
+html {
+    height: 100%;
+}
+*:not(.spinner-border) {
+    border-radius: 0px !important;
+}
+
+.alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    i {
+        margin-right: 15px;
+    }
+    &.alert-info {
+        border: 1px solid #0c5460;
+    }
+}
+
+ol {
+    margin-left: -20px;
+    ul {
+        list-style-type: none;
+        margin-left: -38px;
+        margin-top: 10px;
+    }
+}
+.bg-white {
+    background-color: white;
+}
+.bg-gray {
+    background-color: #e5e5e5 !important;
+}
+.inline-label {
+    margin-top: -1.5rem;
+}
+.spinner-border {
+    padding: 6px;
+}
