@@ -115,6 +115,7 @@
                 $('#startDateError').html('');
                 $('#startDate > input').removeClass('is-invalid');
             }
+
             $('#endDate').datetimepicker('minDate', e.date);
         });
 
@@ -123,6 +124,7 @@
                 $('#endDateError').html('');
                 $('#endDate > input').removeClass('is-invalid');
             }
+
             $('#startDate').datetimepicker('maxDate', e.date);
         });
 

@@ -41,6 +41,18 @@ class UserRepo
      * @return UserAnswers
      */
     public function getChartData($startDate, $endDate){
-        return userAnswer::selectRaw('*, count(answer_id) as answer_count')->with(['answer', 'question'])->groupBy(['question_id', 'answer_id'])->get();
+        $userAnswer = userAnswer::selectRaw('*, count(answer_id) as answer_count')
+            ->with(['answer', 'question'])
+            ->groupBy(['question_id', 'answer_id']);
+
+        if($startDate){
+            $userAnswer->whereDate('created_at', '>=', $startDate);
+        }
+
+        if($endDate){
+            $userAnswer->whereDate('created_at', '<=', $endDate);
+        }
+
+        return $userAnswer->get();
     }
 }

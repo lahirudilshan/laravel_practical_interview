@@ -62,7 +62,7 @@ class QuestionController extends Controller
             $userFeedbacks  = $this->userRepo->getUserFeedbacks($startDate, $endDate, ['limit' => 2]);
             // get data from charts
             $chartData      = $this->userRepo->getChartData($startDate, $endDate);
-            
+
             if($userFeedbacks){
                 foreach($userFeedbacks as $feedback){
                     $tableBodyHTML .= '<tr>';
