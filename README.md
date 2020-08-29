@@ -16,6 +16,14 @@ This is simple system for created to the interview question using:
 -   ChartJs
 -   Datetimepicker
 
+## Features of project
+
+-   Simple login with email
+-   User can submit only one feedback for questions
+-   can filter feedbacks from date range
+-   Ajax pagination
+-   Visualized chart for get idea about percentage of question's answer
+
 ## Step 1
 
 Import the database from "App\database\feedback_system.sql" and change the database connection in "App\config\database.php"
