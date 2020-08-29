@@ -32,29 +32,29 @@ Run the "php -S localhost:8000 -t public" command to serve project and enjoy the
 
 ### Login screen
 
-![Alt text](Screenshots\screen-1.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-1.JPG?raw=true "Title")
 
 ### Question and answer screen
 
-![Alt text](Screenshots\screen-2.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-2.JPG?raw=true "Title")
 
 ### Greetings screen
 
-![Alt text](Screenshots\screen-3.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-3.JPG?raw=true "Title")
 
 ### Filtering pages
 
-![Alt text](Screenshots\screen-4.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-4.JPG?raw=true "Title")
 
-![Alt text](Screenshots\screen-4.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-4.JPG?raw=true "Title")
 
-![Alt text](Screenshots\screen-5.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-5.JPG?raw=true "Title")
 
 ### Charts show percentage of question's answer
 
-![Alt text](Screenshots\screen-6.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-6.JPG?raw=true "Title")
 
-![Alt text](Screenshots\screen-7.JPG?raw=true "Title")
+![ScreenShot](Screenshots\screen-7.JPG?raw=true "Title")
 
 ## License
 
