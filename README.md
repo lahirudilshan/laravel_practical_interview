@@ -32,29 +32,27 @@ Run the "php -S localhost:8000 -t public" command to serve project and enjoy the
 
 ### Login screen
 
-![ScreenShot](Screenshots\screen-1.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-1.JPG)
 
 ### Question and answer screen
 
-![ScreenShot](Screenshots\screen-2.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-2.JPG)
 
 ### Greetings screen
 
-![ScreenShot](Screenshots\screen-3.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-3.JPG)
 
 ### Filtering pages
 
-![ScreenShot](Screenshots\screen-4.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-4.JPG)
 
-![ScreenShot](Screenshots\screen-4.JPG?raw=true "Title")
-
-![ScreenShot](Screenshots\screen-5.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-5.JPG)
 
 ### Charts show percentage of question's answer
 
-![ScreenShot](Screenshots\screen-6.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-6.JPG)
 
-![ScreenShot](Screenshots\screen-7.JPG?raw=true "Title")
+![image](https://raw.githubusercontent.com/lahirudilshan/laravel_practical_interview/master/Screenshots/screen-7.JPG)
 
 ## License
 
