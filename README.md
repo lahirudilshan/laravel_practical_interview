@@ -28,6 +28,34 @@ Install the dependencies by type "composer install" comman in root directory
 
 Run the "php -S localhost:8000 -t public" command to serve project and enjoy the project
 
+## Some screenshots
+
+### Login screen
+
+![Alt text](Screenshots\screen-1.JPG?raw=true "Title")
+
+### Question and answer screen
+
+![Alt text](Screenshots\screen-2.JPG?raw=true "Title")
+
+### Greetings screen
+
+![Alt text](Screenshots\screen-3.JPG?raw=true "Title")
+
+### Filtering pages
+
+![Alt text](Screenshots\screen-4.JPG?raw=true "Title")
+
+![Alt text](Screenshots\screen-4.JPG?raw=true "Title")
+
+![Alt text](Screenshots\screen-5.JPG?raw=true "Title")
+
+### Charts show percentage of question's answer
+
+![Alt text](Screenshots\screen-6.JPG?raw=true "Title")
+
+![Alt text](Screenshots\screen-7.JPG?raw=true "Title")
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
